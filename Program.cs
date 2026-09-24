@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.Contracts;
-
-public interface IAbility
+﻿public interface IAbility
 {
     void Use(string characterName);
 }
